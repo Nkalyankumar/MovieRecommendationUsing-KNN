@@ -1,0 +1,12 @@
+.main-pagebody{
+    background-color: aqua;
+    margin-top: -20px;
+   
+}
+.content{
+    background-color: blueviolet;
+    width:50%;
+    height: 100px;
+    margin: auto;
+     color:white;
+}

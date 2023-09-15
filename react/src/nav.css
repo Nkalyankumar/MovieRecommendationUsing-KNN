@@ -1,0 +1,25 @@
+.nav1{
+    display: flex;
+    column-gap: 50px;
+    align-content: flex-end;
+    justify-content: flex-end;
+    text-decoration: none;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    height: 55px;
+}
+/* nav.css */
+/* Style for NavLink when not active (not selected) */
+.nav-link {
+   color:cornsilk;
+   text-decoration: none;
+    /* Change this to the desired color */
+  }
+  
+  /* Style for NavLink when active (selected) */
+  .nav-link.active {
+    color:cornsilk;
+    text-decoration: none;; /* Change this to the desired color for the active state */
+  }
+  

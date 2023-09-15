@@ -1,0 +1,15 @@
+.history-body{
+    background-color: aqua;
+    height: 100%;
+    margin-top: -20px;
+}
+.history-element{
+    border: 2px solid black;
+    height: 50px;
+    width: 50%;
+    margin:auto;
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
