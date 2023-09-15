@@ -52,6 +52,10 @@ To prevent repeated training and save time, the trained KNN Classifier model is 
 # Team Members
 
 1.KalyanKumarN(BackEnd Developer)
-2.Poojitha(FrontEnd Developer)
+
+2.PoojithaN(FrontEnd Developer)
 
 # Demo
+
+https://github.com/Nkalyankumar/MovieRecommendationUsing-KNN/assets/102470230/6138e961-7362-4cd3-a775-7ef44a738afc
+
