@@ -48,3 +48,10 @@ Dependencies include
 The recommendation system employs a KNN Classifier for content recommendations. The model is initially trained using the MovieLens dataset. Nearest neighbors for a given user's preferences are determined, and content is recommended based on their similarities.
 
 To prevent repeated training and save time, the trained KNN Classifier model is stored using joblib, ensuring efficiency in content recommendation.
+
+# Team Members
+
+1.KalyanKumarN(BackEnd Developer)
+2.Poojitha(FrontEnd Developer)
+
+# Demo
