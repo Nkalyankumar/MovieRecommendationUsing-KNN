@@ -19,9 +19,11 @@ Users can play different recommended content.
 5.User Authentication:
 Users can log in and log out of the platform at any time.
 # Installation
-To install and run the MovieRecommendation Project, follow these steps
+To install and run the MovieRecommendation Project, follow these steps 
+
 1.Clone the project repository from GitHub:
 git clone https://github.com/Nkalyankumar/MovieRecommendationUsing-KNN
+
 2.Install the required dependencies. Ensure you have Python and pip installed. Then, navigate to the project directory and run:
 
 Dependencies include
