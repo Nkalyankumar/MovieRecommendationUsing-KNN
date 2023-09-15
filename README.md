@@ -5,13 +5,17 @@ The Movie Recommendation System is a personalized content recommendation platfor
 The system allows users to sign up, input their interests, and provide personal data for good viewing experience. Initially, content recommendations are based on user interests. As users engage with the platform and watch content, the system refines recommendations using historical viewing data in addition to user interests.
 ## Features
 1.User Registration
-Users can sign up by providing personal information and interests.
+Users can sign up by providing personal information and interests. 
+
 2.Personalized Recommendations
 Initial content recommendations are based on user interests.
+
 3.Adaptive Recommendations
 As users watch content, the system refines recommendations using viewing history and interests.
+
 4.Content Playback
 Users can play different recommended content.
+
 5.User Authentication
 Users can log in and log out of the platform at any time.
 ## Installation
