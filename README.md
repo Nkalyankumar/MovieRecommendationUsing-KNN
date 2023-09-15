@@ -1,5 +1,6 @@
 # MovieRecommendationUsing-KNN
-![Screenshot (165)](https://github.com/Nkalyankumar/MovieRecommendationUsing-KNN/assets/102470230/2f72b16a-e992-44e5-aacd-5d638ada448b)
+![image](https://github.com/Nkalyankumar/MovieRecommendationUsing-KNN/assets/102470230/1e711e5d-dc4c-41de-a741-0f8e23fe2a52)
+
 The Movie Recommendation System is a personalized content recommendation platform that utilizes the K-Nearest Neighbors (KNN) Classifier. It aims to provide users with movie recommendations based on their interests, personal data, and viewing history.
 # Project Description
 The system allows users to sign up, input their interests, and provide personal data for good viewing experience. Initially, content recommendations are based on user interests. As users engage with the platform and watch content, the system refines recommendations using historical viewing data in addition to user interests.
